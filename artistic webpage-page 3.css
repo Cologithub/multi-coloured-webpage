@@ -1,0 +1,47 @@
+body{background-color:rgb(152, 0, 0)
+}
+
+div.title{color: rgb(0, 0, 0);
+        font-size: 20px;
+        font-style: italic;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+div.content1{color:antiquewhite;    
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            float:left;
+            width:1500px;
+}
+
+div.content2{color: antiquewhite;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            width: 500px;
+            height: 500px;
+            float: right;        
+}
+
+div.content3{color: antiquewhite;
+                font-family: 'Times New Roman', Times, serif;
+                float: left;
+}
+
+div.content4{color: antiquewhite;
+                font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                float:right;
+                
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
